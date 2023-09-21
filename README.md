@@ -1,4 +1,4 @@
-# React mini project 4 - Light/Dark Mode Toggle
+# React mini project 5 - Light/Dark Mode Toggle
 React Light/Dark Mode Toggle App: A React-based application that lets users switch between light and dark themes with the click of a button, enhancing personalization. Concepts used - useContext , Context API.
 
 ## Demo Link - https://darkandlight-switch.netlify.app/
